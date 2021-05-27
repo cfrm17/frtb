@@ -120,5 +120,9 @@ GII Delta=√(K_b^2+K_c^2+γ_bc K_b^2 K_c^2 )
 
 
 
-You can find more details at
+References:
+
 https://finpricing.com/lib/EqSwap.html
+
+https://bitbucket.org/cfrm17/frtb/downloads/frtbSa-6.pdf
+
